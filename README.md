@@ -31,5 +31,9 @@ So you can use it like this:
 python3 create_proj.py test ../test/test  -na -in colorama
 ```
 
+## What i learned
+* How to use argparser in python
+* How to interact with terminal 
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
